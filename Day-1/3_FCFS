@@ -33,3 +33,25 @@ int main()
 	printf("average tat is %g\n",atat);
 	return 0;
 }
+
+output:
+
+OUTPUT-
+
+enter the number of process4
+enter the process:
+1
+2
+3
+4
+enter the process of brust time:
+17
+15
+7
+4
+
+total turn around time of each process is 131
+
+total waiting time of each process is 88
+average waiting time is 22
+average tat is 32
