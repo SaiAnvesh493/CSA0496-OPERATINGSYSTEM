@@ -31,3 +31,15 @@ int main()
 	fclose(fptr2);
 	return 0;
 }
+
+output: 
+
+Enter the filename to open for reading
+system_call.c
+Enter the filename to open for writing
+system_call.c
+
+Contents copied to system_call.c
+--------------------------------
+Process exited after 18.1 seconds with return value 0
+Press any key to continue . . .
