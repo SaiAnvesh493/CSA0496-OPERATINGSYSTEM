@@ -3,6 +3,7 @@
 #include <unistd.h>
 int main() 
 { 
+    fork();
     printf("process id:%d\n",getpid());
     printf("parent id:%d\n",getppid());
     return 0; 
